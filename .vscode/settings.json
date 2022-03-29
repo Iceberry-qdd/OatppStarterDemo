@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "CMAKE",
+        "DTOs",
+        "oatpp",
+        "OATPP"
+    ],
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}
